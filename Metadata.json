@@ -1,0 +1,20 @@
+{
+    "Author": "Stas Kuvshinov",
+    "ContentSize": 43738,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/copy-file-between-azure-classic-vms-graphical-runbook/master/Copy-FileBetweenAzureClassicVMs.graphrunbook",
+    "DownloadCount": 1084,
+    "Id": "Copy-File-Between-Azure-4a6d0bb8",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 376,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-12-28T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "The runbook copies a file from one Azure Classic VM to other Azure Classic VM (via the runbook execution host). Both VMs should be up and running, the copied file should not be too big. Automation account should have 3 credential assets - Azure OrgId, login to source, target VMs.",
+    "Title": "Copy File Between Azure Classic VMs Graphical Runbook",
+    "UpdatedDate": "2016-6-2T00:00:00",
+    "Url": "https://github.com/azureautomation/copy-file-between-azure-classic-vms-graphical-runbook",
+    "UserTags": "Automation, Files, copy files"
+}
